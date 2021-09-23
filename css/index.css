@@ -157,7 +157,7 @@ nav li:hover {
   text-align: center;
   width: 45%;
   color: #fff;
-  border: 2px solid var(--color--primary);
+  border: 2px solid var(--color-primary);
   background-color: var(--color-primary);
   font-weight: 600;
   padding: 11px 27px;
@@ -224,7 +224,7 @@ nav li:hover {
   height: 30px;
   width: 30px;
   animation-name: square1;
-  animation-duration: 15s;
+  animation-duration: 20s;
   animation-iteration-count: infinite;
   transform: rotate(45deg);
 }
@@ -233,7 +233,7 @@ nav li:hover {
   height: 25px;
   width: 25px;
   animation-name: square2;
-  animation-duration: 15s;
+  animation-duration: 18s;
   animation-iteration-count: infinite;
   transform: rotate(30deg);
 }
@@ -242,7 +242,7 @@ nav li:hover {
   height: 20px;
   width: 20px;
   animation-name: square3;
-  animation-duration: 15s;
+  animation-duration: 17s;
   animation-iteration-count: infinite;
   transform: rotate(20deg);
   /* animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1); */
@@ -252,7 +252,7 @@ nav li:hover {
   height: 15px;
   width: 15px;
   animation-name: square4;
-  animation-duration: 15s;
+  animation-duration: 16s;
   animation-iteration-count: infinite;
 }
 
@@ -360,7 +360,7 @@ nav li:hover {
   height: 30px;
   width: 30px;
   animation-name: circle1;
-  animation-duration: 15s;
+  animation-duration: 20s;
   animation-iteration-count: infinite;
 }
 
@@ -368,7 +368,7 @@ nav li:hover {
   height: 25px;
   width: 25px;
   animation-name: circle2;
-  animation-duration: 15s;
+  animation-duration: 18s;
   animation-iteration-count: infinite;
 }
 
@@ -376,7 +376,7 @@ nav li:hover {
   height: 20px;
   width: 20px;
   animation-name: circle3;
-  animation-duration: 15s;
+  animation-duration: 17s;
   animation-iteration-count: infinite;
 }
 
@@ -384,7 +384,7 @@ nav li:hover {
   height: 15px;
   width: 15px;
   animation-name: circle4;
-  animation-duration: 15s;
+  animation-duration: 16s;
   animation-iteration-count: infinite;
 }
 
@@ -392,7 +392,7 @@ nav li:hover {
   height: 22px;
   width: 22px;
   animation-name: circle5;
-  animation-duration: 11s;
+  animation-duration: 15s;
   animation-iteration-count: infinite;
 }
 
